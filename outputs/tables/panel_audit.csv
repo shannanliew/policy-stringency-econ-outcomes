@@ -1,0 +1,2 @@
+n_rows,n_countries,years,missing_stringency_index_mean,missing_cases_pm_mean,missing_deaths_pm_mean,missing_vax_end,missing_gdp_growth,missing_unemployment
+549,183,"2020,2021,2022",0.0,0.01639344262295082,0.01639344262295082,0.29508196721311475,0.01639344262295082,0.061930783242258654
