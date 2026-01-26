@@ -1,0 +1,25 @@
+country,iso3_raw,bad_entity
+Africa,not found,True
+Asia,not found,True
+Asia excl. China,CHN,True
+England,GBR,True
+England and Wales,GBR,True
+Europe,not found,True
+European Union (27),not found,True
+High-income countries,not found,True
+Low-income countries,not found,True
+Lower-middle-income countries,not found,True
+North America,not found,True
+Northern Ireland,not found,True
+Oceania,not found,True
+Scotland,not found,True
+South America,not found,True
+Summer Olympics 2020,not found,True
+Transnistria,not found,True
+Upper-middle-income countries,not found,True
+Wales,not found,True
+Winter Olympics 2022,not found,True
+World,not found,True
+World excl. China,CHN,True
+World excl. China and South Korea,CHN,True
+"World excl. China, South Korea, Japan and Singapore","['CHN', 'JPN', 'SGP']",True
