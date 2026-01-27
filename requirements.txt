@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+statsmodels
+requests
+urllib3
+country_converter
