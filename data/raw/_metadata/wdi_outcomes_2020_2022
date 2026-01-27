@@ -1,0 +1,7 @@
+Dataset: World Bank WDI outcomes (annual)
+API: https://api.worldbank.org/v2/country/all/indicator/<code>
+Retrieved: 2026-01-25 (12:07 GMT+0)
+Indicators:
+- NY.GDP.MKTP.KD.ZG (GDP growth, annual %)
+- SL.UEM.TOTL.ZS (Unemployment, % of labor force)
+Notes: Raw file stored for reproducibility (API can change / be slow).
