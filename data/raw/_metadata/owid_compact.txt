@@ -1,0 +1,5 @@
+Dataset: OWID COVID compact (daily)
+Source: https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv
+Retrieved: 2026-01-25 (11:52 GMT+0)
+Used for: stringency_index_mean, cases_pm_mean, deaths_pm_mean, vax_end (country-year, 2020–2022)
+Notes: Raw file is stored to freeze the analysis vintage for reproducibility.
