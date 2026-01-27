@@ -1,0 +1,11 @@
+# macOS + Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+
+# notebooks
+.ipynb_checkpoints/
